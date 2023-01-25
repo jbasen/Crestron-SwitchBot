@@ -5,3 +5,5 @@ Crestron Drivers for 3-Series and 4-Series processors that allows a Crestron sys
 V2 - Fixed a bug in the S# code that parses the device list
 
 V3 - Updated to SwitchBot API v1.1 Security and added support for the SwitchBot Lock
+
+V4 - Add support for SwitchBot Meter and Meter Plus
