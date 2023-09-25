@@ -9,6 +9,8 @@ V3 - Updated to SwitchBot API v1.1 Security and added support for the SwitchBot 
 V4 - Adds support for SwitchBot Meter and Meter Plus
 
 V5 - Adds support for SwitchBot Blind Tilt.
+
+V5.1 - Bug fix in Code for Meter/Meter Plus
 IMPORTANT - THERE IS CURRENTLY A KNOWN BUG IN THE SWITCHBOT API AND THE SET_POSITION_DOWN
 ANALOG INPUT DOESN'T WORK.  ONCE SWITCHBOT FIXES THE BUG THE ANALOG INPUT SHOULD START 
 WORKING WITHOUT ANY CHANGE TO THIS DRIVER.  IF YOU NEED TO CLOSE THE BLIND IN THE DOWN
