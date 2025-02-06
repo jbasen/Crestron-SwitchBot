@@ -18,6 +18,8 @@ V5.3 - Adds support for SwitchBot Meter Pro, Meter Pro (CO2), and Outdoor Meter
 
 v5.4 - Adds support for SwitchBot Air Purifier
 
+v5.5 - Adds support for the SwitchBot Roller Shade (Note - Shade Groups are currently not supported)
+
 IMPORTANT - THERE IS CURRENTLY A KNOWN BUG IN THE SWITCHBOT API AND THE SET_POSITION_DOWN
 ANALOG INPUT DOESN'T WORK.  ONCE SWITCHBOT FIXES THE BUG THE ANALOG INPUT SHOULD START 
 WORKING WITHOUT ANY CHANGE TO THIS DRIVER.  IF YOU NEED TO CLOSE THE BLIND IN THE DOWN
